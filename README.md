@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sahana</h1>
 <h3 align="center">Bioinformatics Analyst</h3>
 
-<img align="right" alt="coding" width="400" src="![image]([https://github.com/sahanamuthukumar/sahanamuthukumar/assets/61139456/c2b90da0-edc3-4c8c-854c-44373e653e56](https://github.com/sahanamuthukumar/sahanamuthukumar/blob/main/coder.gif))
-">
+<img align="right" alt="coding" width="400" src="https://github.com/sahanamuthukumar/sahanamuthukumar/blob/main/coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahanamuthukumar&label=Profile%20views&color=0e75b6&style=flat" alt="sahanamuthukumar" /> </p>
 
