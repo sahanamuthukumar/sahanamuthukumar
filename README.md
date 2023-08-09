@@ -1,5 +1,3 @@
-![logo](https://github.com/sahanamuthukumar/sahanamuthukumar/blob/main/EVOLVE%20(2).png)
-
 <h1 align="center">Hi 👋, I'm Sahana</h1>
 <h3 align="center">Bioinformatics Analyst</h3>
 
